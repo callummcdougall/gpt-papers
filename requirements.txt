@@ -1,0 +1,7 @@
+PyPDF2
+io
+requests
+numpy
+pandas
+openai
+pdfplumber
